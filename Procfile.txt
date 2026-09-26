@@ -1,0 +1,1 @@
+worker: python macros_bot.py
